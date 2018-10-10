@@ -1,5 +1,7 @@
 # sorting
-Sorting algorithms for Algorithm Analysis 
+Sorting algorithms for Algorithm Analysis by Davi Santos.
+
+Professor's Description below:
 
 Trabalho - Algoritmos de Ordenação
 
